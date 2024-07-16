@@ -1,0 +1,11 @@
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-1.0.0-beta04-0 C:\Users\Yuri\.gradle\caches\transforms-4\0178ea717b29f70f4ee9325437623c6c\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-window-java-1.0.0-beta04-1 C:\Users\Yuri\.gradle\caches\transforms-4\063059000ad7639e4e8e6400a1a954fd\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-core-1.6.0-2 C:\Users\Yuri\.gradle\caches\transforms-4\3c9bf8e7a9630897ebc8efc592fe919a\transformed\core-1.6.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-jetified-annotation-experimental-1.1.0-3 C:\Users\Yuri\.gradle\caches\transforms-4\d778e1a9bdbc343b4e03b83b4a86c0db\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-main-4 C:\Users\Yuri\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.3\android\src\main\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-5 C:\Users\Yuri\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.2.3\android\src\release\res
+io.flutter.plugins.sharedpreferences.shared_preferences_android-pngs-6 E:\Progi\FlutterProjects_Main\hackers_life\build\shared_preferences_android\generated\res\pngs\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-resValues-7 E:\Progi\FlutterProjects_Main\hackers_life\build\shared_preferences_android\generated\res\resValues\release
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-8 E:\Progi\FlutterProjects_Main\hackers_life\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-mergeReleaseResources-9 E:\Progi\FlutterProjects_Main\hackers_life\build\shared_preferences_android\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.sharedpreferences.shared_preferences_android-release-10 E:\Progi\FlutterProjects_Main\hackers_life\build\shared_preferences_android\intermediates\merged_res\release\mergeReleaseResources
